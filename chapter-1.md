@@ -83,4 +83,97 @@ Answer: Depends on who you ask, and the definition.
 
 ## Systems Programming
 
+* Utilities for processing files, launching other things, etc.
+* [POSIX](https://en.wikipedia.org/wiki/POSIX) bindings
+  * TLDR: Standard interface for operating systems.
+  * Environment variables
+  * Files
+  * Threads
+  * Command-line stuff
+ 
+## GUIs
 
+* Simplicity and fast development
+* Various toolkits available
+  * Portable: run across different operating systems.
+
+## Internet Scripting
+
+* Standard internet functionality
+  * Communicate over sockets
+  * Transfer files
+  * Parse/generate XML, JSON
+  * Email
+  * Load & parse web pages
+* Lots of third party tools
+* Lots of web development frameworks
+  * Django is the main one now
+
+## Component Integration
+
+* "Glue language" for controlling other systems and components
+  * Use something easy to manage other complex things
+* Extend/embed C programs
+
+## Database Programming
+
+* Connects to all the usual DBs
+  * Portable database API
+  * Built-in SQLite engine
+* `pickle`: Save and restore complex data structures.
+* ORMs
+  * Interact with DB data like it's Python objects
+  * SQLAlchemy, PyMongo, etc
+
+## Rapid Prototyping
+
+* Can start something in Python and then move to C
+* Common component interface 
+
+## Numeric and Scientific Programming
+
+* `NumPy`: Ease of use plus sophistication and performance.
+* Basically you can write code to crunch tons of data with Python
+  * Easy to write
+  * Runs fast
+
+## And More
+
+TLDR you can do basically anything with Python.
+
+# How is Python Developed and Supported?
+
+* Open source, big community
+* PEP: Python Enhancement Proposal
+
+## Open Source Tradeoffs
+
+* Some chaos, some mistakes
+* But stable versions tend to be stable
+
+# What are Python's Technical Strengths?
+
+## Object-Oriented and Functional
+
+* Python is OO from the ground up.
+  * Class functionality: Polymorphism, overloading, multiple inheritance.
+  * Python classes can subclass from other languages (with some glue).
+  * But still OO optional - can do a lot without classes.
+* Python has functional tools now too
+  * Don't worry too much about what this means yet
+
+## It's Free
+
+* Open source, free to use and distribute.
+* Well-supported, robust online community.
+* Source code is available (if you really want it).
+* Pretty conservative to changes.
+
+## It's Portable
+
+* Python runs anywhere.
+  * Pretty much the same code should run everywhere.
+
+ ## It's Powerful
+
+ * 
