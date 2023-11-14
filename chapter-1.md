@@ -233,3 +233,11 @@ Recurring theme: It's easy to use but still can do a lot of stuff.
 * Again: more widely used
 * It's subjective, but TLDR: Python is at least pretty good at everything.
 
+# Engineering vs Art
+
+* Readability matters.
+  * Language influences readability.
+* Code is read more often than it's written/updated/deleted.
+  * Good code communicates its purpose clearly.
+* Confusing to solve the same problem in many different ways.
+  * Python pushes you to do things one way.
