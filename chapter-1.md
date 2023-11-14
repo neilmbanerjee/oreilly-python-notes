@@ -10,8 +10,29 @@
 * "Coherent": everything follows from small set of core concepts 
 
 **Python Philosophy:**
-* Explicit is better than implicit
-* Simple is better than complex
+`import this` gives you the following:
+```
+The Zen of Python, by Tim Peters
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+```
 
 ## Developer Productivity
 
@@ -176,4 +197,39 @@ TLDR you can do basically anything with Python.
 
  ## It's Powerful
 
- * 
+Recurring theme: It's easy to use but still can do a lot of stuff.
+ * Dynamic typing: Python keeps track of your variable types.
+ * Automatic memory management: In some languages you have to do this manually.
+ * Programming-in-the-large: Mechanisms to manage complexity in large code bases.
+ * Built-in object types: Lists dicts strings etc.
+ * Built-in tools: Lots of functionality for those types.
+ * Library utilities: Big standard library.
+ * Third-party utilities: Lots of people wrote Python tools.
+
+## It's Mixable
+
+* Easy to wire up Python with not-Python
+
+## It's Relatively Easy to Use
+
+* Simpler than C++ Java etc.
+* Quick turnaround is really valuable in the real world.
+
+## It's Relatively Easy to Learn
+
+* Again: Simpler than C++ Java etc.
+* Again: No compiling, no linking.
+* **Important nugget:** Simple enough that "here's some Python, you can modify it as you like" is a reasonable thing to say.
+
+## It's Named After Monty Python
+
+* I did not know this.
+
+# How Does Python Stack Up?
+
+* Again: simpler than C++ Java etc.
+* Again: more powerful
+* Again: more readable
+* Again: more widely used
+* It's subjective, but TLDR: Python is at least pretty good at everything.
+
